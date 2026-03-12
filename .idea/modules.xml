@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PalindromeCheckerApp.iml" filepath="$PROJECT_DIR$/PalindromeCheckerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WeekAssignments/WeekAssignments.iml" filepath="$PROJECT_DIR$/../WeekAssignments/WeekAssignments.iml" />
     </modules>
   </component>
 </project>
